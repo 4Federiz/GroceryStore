@@ -1,4 +1,4 @@
-# dart_tutorial_final
+# Grocery Store written in Dart.
 
 An absolute bare-bones web app.
 
